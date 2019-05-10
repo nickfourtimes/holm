@@ -1,6 +1,6 @@
-= HOLM =
+# HOLM
 
-== About ==
+## About
 
 Meant to be a wander game about traversal, providing a huge environment to explore at a very leisurely pace.
 
@@ -12,9 +12,11 @@ The main mechanic I was interested in, besides wandering, was the folding of spa
 
 Anyway, for the time being you can warp immediately to any tower, and you don't already have to be on top of a tower to do so. Just point your crosshair at a tower, and once it brightens, left-click the mouse to travel to that point.
 
-Using Unity 2019.1.0f2.
+Made with Unity 2019.1.0f2.
 
-== Controls ==
+Download the game at [itch.io](https://nicknicknicknick.itch.io/holm).
+
+## Controls
 
 WADS to walk around, mouse to look.
 
@@ -22,7 +24,7 @@ Controls begin inverted, as nature intended, but you can hit I to flip them this
 
 If your crosshair touches one of three towers, it will be highlighted; left-click to warp to that point.
 
-== Plugins ==
+## Plugins 
 
 I'd used or intended to use a couple of commercial plugins off the Asset Store, which I've removed from this public repo. They are:
 
