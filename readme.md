@@ -17,7 +17,7 @@ WADS to walk around, mouse to look.
 
 Controls begin inverted, as nature intended, but you can hit `I` to flip them this way and that.
 
-If your crosshair touches one of three towers, it will be highlighted; left-click to warp to that point.
+If your crosshair touches one of towers, it will be highlighted; left-click to warp to that point.
 
 ## Plugins 
 
