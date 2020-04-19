@@ -1,9 +1,9 @@
 # HOLM
 
 ## About
-This is an evolving prototype, intended as a wander game about traversal, providing a huge environment to explore at a very leisurely pace.
-
-A canvas to experiment with landscape design, creating a variety of small microbiomes and subtle gradations of place. Oddly enough, the inspiration for this was the 2006 adaptation of _The Wicker Man_, which, if nothing else, had a number of compelling locations.
+This is an evolving prototype, intended as...
+* a wander game about traversal, providing a huge environment to explore at a very leisurely pace
+* a canvas to experiment with landscape design, creating a variety of small microbiomes and subtle gradations of place. Oddly enough, the inspiration for this was the 2006 adaptation of _The Wicker Man_, which, if nothing else, had a number of compelling locations.
 
 The primary goal is to traverse the island, from tip to tip, at a slow walking pace, visiting various settlements along the way and constructing a history of successive lived generations in this place. Arriving at the opposite end you find... who knows, ghosts, probably.
 
