@@ -23,9 +23,9 @@ If your crosshair touches one of towers, it will be highlighted; left-click to w
 
 I'd started with some commercial plugins off the Asset Store, which I've removed from this public repo. They are:
 
-* AllSky
-* Build Report
-* First Person Exploration Kit
-* Gaia
+* [AllSky](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-200-sky-skybox-set-10109)
+* [First Person Exploration Kit](https://assetstore.unity.com/packages/templates/systems/first-person-exploration-kit-60434)
+* [Fungus](https://assetstore.unity.com/packages/templates/systems/fungus-34184)
+* [Gaia 2](https://assetstore.unity.com/packages/tools/terrain/gaia-2-terrain-scene-generator-42618)
 
 Free plugins are still included.
