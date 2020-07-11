@@ -99,3 +99,12 @@ The following packages were updated:
   com.unity.probuilder from version 4.1.2 to 4.2.3
   com.unity.render-pipelines.core from version 7.1.5 to 7.1.8
   com.unity.timeline from version 1.2.7 to 1.2.10
+
+=== Sat Jul 11 11:19:29 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ext.nunit@1.0.0
+  com.unity.test-framework@1.1.14

@@ -47,4 +47,6 @@ Assets/StreamingAssets/crashlytics-build.properties
 # End of https://www.gitignore.io/api/unity
 
 # Plugins that I'm not at liberty to share
+Assets/Fungus*
 Assets/Procedural Worlds*
+Assets/Tests*
