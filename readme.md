@@ -1,7 +1,7 @@
 # HOLM
 
 ## About
-This is an evolving prototype, intended as...
+This is an old prototype, intended as...
 * a wander game about traversal, providing a huge environment to explore at a very leisurely pace
 * a canvas to experiment with landscape design, creating a variety of small microbiomes and subtle gradations of place. Oddly enough, the inspiration for this was the 2006 adaptation of _The Wicker Man_, which, if nothing else, had a number of compelling locations.
 
