@@ -10,8 +10,6 @@ The primary goal is to traverse the island, from tip to tip, at a slow walking p
 
 The tall towers placed around the island are a form of fast-travel, folding the space for the player. They might have a purpose some day. Anyway, for the time being you can warp immediately to any tower, and you don't already have to be on top of a tower to do so. Just point your crosshair at one, and once it brightens, left-click the mouse to travel to that point.
 
-The prototype as of September 2019 is up on [itch.io](https://nicknicknicknick.itch.io/holm).
-
 ## Gameplay
 
 Not much to speak of: just walk around and warp between the towers on the island. Proof of a thin concept.
@@ -34,6 +32,8 @@ I'd started with some commercial plugins off the Asset Store, which I've removed
 * [Gaia 2](https://assetstore.unity.com/packages/tools/terrain/gaia-2-terrain-scene-generator-42618)
 
 Free plugins are still included.
+
+The prototype as of September 2019 is up on [itch.io](https://nicknicknicknick.itch.io/holm).
 
 ## History
 
