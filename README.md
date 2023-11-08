@@ -1,6 +1,7 @@
 # HOLM
 
 ## About
+
 This is an old prototype, intended as...
 * a wander game about traversal, providing a huge environment to explore at a very leisurely pace
 * a canvas to experiment with landscape design, creating a variety of small microbiomes and subtle gradations of place. Oddly enough, the inspiration for this was the 2006 adaptation of _The Wicker Man_, which, if nothing else, had a number of compelling locations.
@@ -11,6 +12,10 @@ The tall towers placed around the island are a form of fast-travel, folding the 
 
 The prototype as of September 2019 is up on [itch.io](https://nicknicknicknick.itch.io/holm).
 
+## Gameplay
+
+Not much to speak of: just walk around and warp between the towers on the island. Proof of a thin concept.
+
 ## Controls
 
 WADS to walk around, mouse to look.
@@ -19,7 +24,7 @@ Controls begin inverted, as nature intended, but you can hit `I` to flip them th
 
 If your crosshair touches one of towers, it will be highlighted; left-click to warp to that point.
 
-## Plugins 
+## Links 
 
 I'd started with some commercial plugins off the Asset Store, which I've removed from this public repo. They are:
 
@@ -29,3 +34,13 @@ I'd started with some commercial plugins off the Asset Store, which I've removed
 * [Gaia 2](https://assetstore.unity.com/packages/tools/terrain/gaia-2-terrain-scene-generator-42618)
 
 Free plugins are still included.
+
+## History
+
+- 10 May 2019
+  - Initial release on itch.io
+
+---
+
+Drink pairing: Glögg  
+Music pairing: [_Solitude_](https://hakobune.bandcamp.com/album/solitude), by Hakobune
